@@ -13,7 +13,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, ContextTypes, filters
 
 # >>> Осында өз мәндеріңді қой:
-BOT_TOKEN = "8410628856:AAH4gYX0Dz8VcMIhEJma8FJIwHWiWE7eAEE"   # BotFather берген токенді қой
+BOT_TOKEN = "7666078916:AAFY1r_N6nbTIbwm9pTVJfwewH5z7tqka2k"   # BotFather берген токенді қой
 OWNER_ID  =  5381443968                              # userinfobot берген user id (мысалы: 5381443968)
 
 # ----------------------------------------------------------
